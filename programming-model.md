@@ -57,3 +57,21 @@ If program needs to sign transactions for PDA, it uses seed to sign it.
 
 Program (Smart contract) owns account data for our DAAP so it can modify it. 
 
+
+## Complete flow (general)
+* Client signs transaction with private key of an account it desires to change
+* Program checks if it's owner of the account AND if private key of the account is authorized the change 
+* Program modifies data (if ^ is true)
+
+## System program
+* 1111111111111111
+* default owner, responsible for creating accounts
+
+## Creating new account flow 
+* user with public key generates new keypair
+* user regiesteres public key with system program
+* user authorized debit from the original account to pay for the new account's rent
+* user signs the instruction with both private keys
+* system program will create that account for you
+* system program marks itself as a program owner
+* system program will sign the account with public key 

@@ -5,7 +5,7 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 * [Solana Playground](https://beta.solpg.io)
 
 ## Getting started
-[By Chase Barker](https://solana.com/news/getting-started-with-solana-development)
+* [By Chase Barker](https://solana.com/news/getting-started-with-solana-development)
 
 ## Solana resources
 * [Solana Youtube Channel](https://www.youtube.com/c/SolanaFndn)
@@ -22,6 +22,7 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 ## Github 
 * [Solana Scripts](https://github.com/ronanyeah/solana-rust-examples)
 * [Solana base app](https://github.com/UjjwalGupta49/solana-base-app)
+* [Solana developers](https://github.com/solana-developers/web3-examples)
 
 ## Youtube 
 * [TikTok Web 3.0 with Solana](https://www.youtube.com/watch?v=qIGs3XWybgU)
