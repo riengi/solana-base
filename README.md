@@ -34,3 +34,6 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 
 ## Security
 * [Sealevel attacks](https://github.com/coral-xyz/sealevel-attacks)
+
+## Python
+* [Solana.py](https://github.com/michaelhly/solana-py)
