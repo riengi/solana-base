@@ -26,7 +26,8 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 
 ## Youtube 
 * [TikTok Web 3.0 with Solana](https://www.youtube.com/watch?v=qIGs3XWybgU)
-
+* [Solana YT Channel](https://www.youtube.com/c/SolanaFndn/videos)
+* [Josh's Devbox Solana Tutorial](https://www.youtube.com/c/SolanaFndn/videos)`
 
 ## Podcasts
 * [The Zeitgeist](https://the-zeitgeist.simplecast.com/episodes)
