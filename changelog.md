@@ -1,5 +1,13 @@
 # Solana changelog / news / updates highlights
 
+### [2022-10-19](https://www.youtube.com/watch?v=5jQvuPWpzcE)
+* [Unified scheduler for blocks to be packed bigger](https://github.com/solana-labs/solana/pull/28307)
+* [Migrate from BPF (Berkeley Packet Filter) to SBF (Solana Binary Format)](https://github.com/solana-labs/solana/pull/28125/)
+* [New getParsedBlock method to Connection](https://github.com/solana-labs/solana/pull/28345)
+* [Explorer supports closed program accounts](https://github.com/solana-labs/solana/pull/28336)
+* [Explorer supports additional BPF loader instructions](https://github.com/solana-labs/solana/pull/28342)
+* [Thirdweb support for Solana](https://blog.thirdweb.com/introducing-solana-to-thirdweb/)
+
 ### [2022-10-11](https://www.youtube.com/watch?v=gfFP6Yz5Z70)
 * [Vote credits for most effective voters](https://github.com/solana-labs/solana/pull/28162)
 * [Cost for curve25519 ops update](https://github.com/solana-labs/solana/pull/28152)
