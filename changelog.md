@@ -1,12 +1,20 @@
 # Solana changelog / news / updates highlights
 
-### [2022-10-19](https://www.youtube.com/watch?v=5jQvuPWpzcE)
-* [Unified scheduler for blocks to be packed bigger](https://github.com/solana-labs/solana/pull/28307)
-* [Migrate from BPF (Berkeley Packet Filter) to SBF (Solana Binary Format)](https://github.com/solana-labs/solana/pull/28125/)
-* [New getParsedBlock method to Connection](https://github.com/solana-labs/solana/pull/28345)
-* [Explorer supports closed program accounts](https://github.com/solana-labs/solana/pull/28336)
-* [Explorer supports additional BPF loader instructions](https://github.com/solana-labs/solana/pull/28342)
-* [Thirdweb support for Solana](https://blog.thirdweb.com/introducing-solana-to-thirdweb/)
+### [2022-10-26](https://www.youtube.com/watch?v=yliuMPDyoSs)
+* [2x transaction size](https://github.com/solana-labs/solana/pull/27909)
+* [ZK Token PublicKey proof](https://github.com/solana-labs/solana/pull/28392)
+* [ZK Token Error Types](https://github.com/solana-labs/solana/pull/28407)
+* [Off-Chain Message Support](https://github.com/solana-labs/solana/pull/27456)
+* [BFP Upgradable Loader](https://github.com/solana-labs/solana/pull/28398)
+* [Resource - Seahorse Cookbook](https://www.seahorsecookbook.com/)
+
+## [2022-10-19](https://www.youtube.com/watch?v=5jQvuPWpzcE)
+* [Unified scheduler proposal](https://github.com/solana-labs/solana/pull/28307)
+* [Solana Binary Format (SBF)](https://github.com/solana-labs/solana/pull/28125)
+* [getParsedBlock()](https://github.com/solana-labs/solana/pull/28345)
+* [Closed program accounts(explorer)](https://github.com/solana-labs/solana/pull/28336)
+* [BFP loader](https://github.com/solana-labs/solana/pull/28342)
+* [Thirdweb Solana support](https://blog.thirdweb.com/introducing-solana-to-thirdweb/)
 
 ### [2022-10-11](https://www.youtube.com/watch?v=gfFP6Yz5Z70)
 * [Vote credits for most effective voters](https://github.com/solana-labs/solana/pull/28162)
@@ -27,7 +35,6 @@
 * Account compression JS added
 * Token 2022 CLI Feature immutable token owner extension implemented
 * Nil Foundation light client state verifier introduced
-
 
 ### [2022-09-20](https://www.youtube.com/watch?v=i9gG_mjB_KQ)
 * transaction size doubling in the future from 1232 bytes, see [the issue](https://github.com/solana-labs/solana/issues/17102)
