@@ -1,5 +1,13 @@
 # Solana changelog / news / updates highlights
 
+### [2022-11-01](https://www.youtube.com/watch?v=5v1FtqTznVI)
+* [Solana StackExchange](https://solana.stackexchange.com/)
+* [Solana Bounty board](https://university-bounty-program.vercel.app/challenges)
+* [Lamports Withdraw Authority](https://github.com/solana-labs/solana/pull/28399)
+* [Remove immutable deploy](https://github.com/solana-labs/solana/pull/28399)
+* [Better erorr messages](https://github.com/solana-labs/solana/pull/28530)
+* [Solaa Playground tutorial](https://github.com/solana-playground/solana-playground/tree/master/client/src/tutorials)
+
 ### [2022-10-26](https://www.youtube.com/watch?v=yliuMPDyoSs)
 * [2x transaction size](https://github.com/solana-labs/solana/pull/27909)
 * [ZK Token PublicKey proof](https://github.com/solana-labs/solana/pull/28392)
