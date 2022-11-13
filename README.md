@@ -38,3 +38,8 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 
 ## Python
 * [Solana.py](https://github.com/michaelhly/solana-py)
+
+
+## API
+* [Solana Web3 JS]( https://solana-labs.github.io/solana-web3.js/)
+* [SPL Token](https://solana-labs.github.io/solana-program-library/token/js/)

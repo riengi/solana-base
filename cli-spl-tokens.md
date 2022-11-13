@@ -53,5 +53,21 @@ spl-token transfer --fund-recipient 3Qekxw33Fe9NZ4txQMWmkAU2tiVrYHJAB61hQt4pkUnp
 
 ### List all owned SPL-tokens
 ```
-spl-token accounts
+spl-token accounts <ADDRESS>
+```
+
+### Close empty account
+```
+spl-token close <ACCOUNT_ADDRESS>
+```
+
+### Get account information
+```
+spl-token info <TOKEN ADDRESS>
+
+```
+
+## Clean ancillary (not associated) tokens to clean up extra accounts
+```
+spl-token gc --owner 
 ```
