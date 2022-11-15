@@ -42,4 +42,8 @@ Knowledge base related to [Solana](https://solana.com) network smart contracts /
 
 ## API
 * [Solana Web3 JS]( https://solana-labs.github.io/solana-web3.js/)
-* [SPL Token](https://solana-labs.github.io/solana-program-library/token/js/)
+* [SPL Token](https://solana-labs.github.io/solana-program-library/token/js/
+
+## Technical
+* [StackExchange Solana](https://solana.stackexchange.com/)
+* [StackOverflow Solana](https://stackoverflow.com/questions/tagged/solana)
